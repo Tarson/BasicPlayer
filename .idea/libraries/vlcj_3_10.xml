@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="vlcj-3.10">
+    <CLASSES>
+      <root url="file://C:/VLC/vlcj-3.10.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://C:/VLC/vlcj-3.10.1" />
+    </SOURCES>
+    <jarDirectory url="file://C:/VLC/vlcj-3.10.1" recursive="false" />
+    <jarDirectory url="file://C:/VLC/vlcj-3.10.1" recursive="false" type="SOURCES" />
+  </library>
+</component>
